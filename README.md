@@ -50,4 +50,5 @@ $ nodemon app.js
 ```
 Express is running on http://localhost:3000
 ```
+8. Enjoy the website
 
