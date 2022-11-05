@@ -1,4 +1,4 @@
-# My Restaurant List
+# [My Restaurant List](https://kumomiki.github.io/restaurant_list/)
 A simple website which helps you to search restaurants. 
 
 ### Main Page
